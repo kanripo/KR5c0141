@@ -1,8 +1,7 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 洞靈眞經
-#+DATE: 2015-08-29 00:48:13
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-29 00:48:10.191526
+#+TITLE: 洞靈真經
+#+PROPERTY: DZID  DZ0747
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，16—731 三卷 洞神部玉訣類
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
-#+PROPERTY: JUAN 0
-
-
+#+PROPERTY: WITNESS HFL
